@@ -1,0 +1,44 @@
+﻿--Especificações
+0 - Cadastrar (apelido, e-mail, senha, e ano de nascimento)
+1 - Persistir dados em SQLite
+2 - Logar
+3 - Alterar dados de cadastrais e de login 
+4 - Permitir adicionar contatos
+5 - Permitir remover contatos
+6 - Persistir relações entre contatos
+7 - Mostrar lista de contatos adicionados
+8 - Diferenciar contatos online e offline
+9 - Iniciar chat com usuários online
+10- Permitir enviar mensagens de texto pelo chat
+11- Permitir enviar arquivos pelo chat
+12- Um método de envio não pode bloquear o outro
+13- Permitir iniciar vários chats simultaneamente
+14- Atualizar status online e offline 
+15- Servidor somente recebe conexões
+16- Cliente não deve armazenar dados
+17- Cliente Servidor se comunicam apenas para:
+	Autenticar
+	Carregar lista de contatos
+	Manter o usuário online
+18- Comunicação Cliente-Cliente é peer to peer
+19- Deve conectar, mandar mensagem e desconectar em todo sistema
+20- Utilizar JSON (exeto para aúdio/vídeo)
+
+
+--Analisar
+21- Chamadas de áudio
+22- Video chamadas
+23- Versão mobile
+
+
+--Divisão de trabalho
+0-7: José
+8-17: Denilson
+
+
+--Caso sejam implementados
+21-22: José
+23: Denilson
+
+
+
